@@ -16,3 +16,5 @@ This repository documents my daily learning and projects as I work towards becom
 
 ## Current Project
 🌾 Crop Production Data Analysis
+
+- Completed end-to-end Crop Production ML project with EDA and prediction
